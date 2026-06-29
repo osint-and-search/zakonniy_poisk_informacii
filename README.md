@@ -69,4 +69,4 @@
 
 Информация предоставляется «как есть» и предназначена для развития навыков корректной и безопасной работы с открытыми данными.
 
-[Вернуться к каталогу OSINT-инструментов](https://github.com/osint-and-search/probiv_i_OSINT_instrumenti)
+[Вернуться к каталогу OSINT-инструментов](https://github.com/osint-and-search/poiskovie_i_OSINT_instrumenti)
